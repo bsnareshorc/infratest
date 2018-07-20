@@ -1,2 +1,2 @@
-echo "Script run from master..."
+echo "Script run from test1 branch..."
 
